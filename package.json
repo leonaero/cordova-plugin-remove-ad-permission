@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-remove-ad-permission-leon-fork",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A Cordova plugin to remove Android AD ID permission from App Manifest file",
   "cordova": {
     "id": "cordova-plugin-remove-ad-permission-leon-fork",
