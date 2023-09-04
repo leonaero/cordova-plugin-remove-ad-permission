@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-remove-ad-permission",
-  "version": "1.0.1",
+  "name": "cordova-plugin-remove-ad-permission-leon-fork",
+  "version": "1.0.2",
   "description": "A Cordova plugin to remove Android AD ID permission from App Manifest file",
   "cordova": {
-    "id": "cordova-plugin-remove-ad-permission",
+    "id": "cordova-plugin-remove-ad-permission-leon-fork",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bphreaker/cordova-plugin-remove-ad-permission.git"
+    "url": "git+https://github.com/leonaero/cordova-plugin-remove-ad-permission.git"
   },
   "keywords": [
     "construct-master-collection",
@@ -34,5 +34,9 @@
   "bugs": {
     "url": "https://github.com/Bphreaker/cordova-plugin-remove-ad-permission/issues"
   },
-  "homepage": "https://github.com/Bphreaker/cordova-plugin-remove-ad-permission"
+  "homepage": "https://github.com/Bphreaker/cordova-plugin-remove-ad-permission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
